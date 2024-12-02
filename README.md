@@ -14,7 +14,7 @@ This document provides instructions to get the Backend API up and running.
 1. **Clone the Repository**
 
    ```bash
-   git clone <backend-repo-url>
+   git clone <https://github.com/SalilMonga/GarageFinder-backend/tree/main>
    cd backend
    ```
 
@@ -37,6 +37,7 @@ The server should start running on **http://localhost:3000** (or the specified p
 ### 📄 Environment Variables
 
 Make sure to add a `.env` file with the necessary environment variables. For example:
+TODO: Update the DB URL
 
 ```
 PORT=3000
