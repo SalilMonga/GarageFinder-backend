@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Updated University Name",
+    "type": "Public",
+    "location": "Updated City",
+    "image": "https://example.com/images/san_bernardino.jpg"
+  },
+  {
+    "id": 2,
+    "name": "California State University, Fresno",
+    "type": "Public",
+    "location": "Fresno",
+    "image": "https://example.com/images/fresno.jpg"
+  },
+  {
+    "id": 3,
+    "name": "California State University, Long Beach",
+    "type": "Private",
+    "location": "Long Beach",
+    "image": "https://example.com/images/long_beach.jpg"
+  },
+  {
+    "id": 4,
+    "name": "California State University, Northridge",
+    "type": "Community",
+    "location": "Northridge",
+    "image": "https://example.com/images/northridge.jpg"
+  },
+  {
+    "id": 6,
+    "name": "University of California, Los Angeles",
+    "type": "Public",
+    "location": "Los Angeles",
+    "image": "https://example.com/images/ucla.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Stanford University",
+    "type": "Private",
+    "location": "Stanford",
+    "image": "https://example.com/images/stanford.jpg"
+  },
+  {
+    "id": 8,
+    "name": "University of California, Berkeley",
+    "type": "Public",
+    "location": "Berkeley",
+    "image": "https://example.com/images/berkeley.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Santa Monica College",
+    "type": "Community",
+    "location": "Santa Monica",
+    "image": "https://example.com/images/santa_monica.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Los Angeles City College",
+    "type": "Community",
+    "location": "Los Angeles",
+    "image": "https://example.com/images/la_city_college.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Pepperdine University",
+    "type": "Private",
+    "location": "Malibu",
+    "image": "https://example.com/images/pepperdine.jpg"
+  },
+  {
+    "id": 12,
+    "name": "San Diego State University",
+    "type": "Public",
+    "location": "San Diego",
+    "image": "https://example.com/images/sdsu.jpg"
+  },
+  {
+    "id": 13,
+    "name": "University of California, Irvine",
+    "type": "Public",
+    "location": "Irvine",
+    "image": "https://example.com/images/uci.jpg"
+  },
+  {
+    "name": "test, Los Angeles",
+    "location": "Los Angeles",
+    "imageUrl": "https://example.com/csu_la.jpg",
+    "id": 14
+  }
+]
